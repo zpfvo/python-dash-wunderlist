@@ -1,7 +1,7 @@
 # .coveragerc to control coverage.py
 [run]
 branch = True
-source = */amazon_dash_wunderlist/*
+source = */python_dash_wunderlist/*
 # omit = bad_file.py
 
 [report]

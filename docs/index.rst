@@ -1,8 +1,8 @@
 ======================
-amazon-dash-wunderlist
+python-dash-wunderlist
 ======================
 
-This is the documentation of **amazon-dash-wunderlist**.
+This is the documentation of **python-dash-wunderlist**.
 
 .. note::
 

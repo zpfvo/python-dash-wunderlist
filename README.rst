@@ -1,5 +1,5 @@
 ======================
-amazon-dash-wunderlist
+python-dash-wunderlist
 ======================
 
 

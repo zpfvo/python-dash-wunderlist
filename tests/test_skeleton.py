@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import pytest
-from amazon_dash_wunderlist.skeleton import fib
+from python_dash_wunderlist.skeleton import fib
 
 __author__ = "fvo"
 __copyright__ = "fvo"

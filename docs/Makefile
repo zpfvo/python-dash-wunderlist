@@ -8,8 +8,8 @@ PAPER         =
 BUILDDIR      = _build
 AUTODOCDIR    = api
 AUTODOCBUILD  = sphinx-apidoc
-PROJECT       = amazon-dash-wunderlist
-MODULEDIR     = ../src/amazon_dash_wunderlist
+PROJECT       = python-dash-wunderlist
+MODULEDIR     = ../src/python_dash_wunderlist
 
 # User-friendly check for sphinx-build
 ifeq ($(shell which $(SPHINXBUILD) >/dev/null 2>&1; echo $?), 1)
