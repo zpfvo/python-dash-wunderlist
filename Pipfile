@@ -7,8 +7,12 @@ name = "pypi"
 "e1839a8" = {editable = true, path = "."}
 "wunderpy2" = "*"
 pydux = "*"
+configargparse = "*"
+scapy = "*"
+twisted = "*"
 
 [dev-packages]
+bpython = "*"
 
 [requires]
 python_version = "3.6"
